@@ -11,11 +11,7 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
-<!-- About Me Section -->
-### About Me
-- 🔭 I’m currently working on **[Project Name](#)**.
-- 🌱 I’m learning **[Technology/Tool]**.
-- ⚡ Fun fact: I love exploring **[Your Hobbies/Interests]**.
+
 
 ---
 
@@ -51,8 +47,7 @@
 <!-- Contact Me Section -->
 <h3 align="left">💬 Contact Me:</h3>
 <p align="left">
-  - 📫 Email: **your.email@example.com**
-  - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+  - 📫 Email: **stigibalint@gmail.com**
 </p>
 
 ---
