@@ -1,6 +1,6 @@
 # Bálint Stiegelmayer
 
-I'm a software developer. I build full-stack web applications, desktop software, and complex systems. No buzzwords, just functional code, solid architecture, and scalable solutions.
+I'm a developer who enjoys building things from the ground up — web apps, desktop tools, and the occasional ambitious side project. I care more about writing clean, maintainable code than chasing trends, and I like digging into the kind of problems that need a proper architecture, not just a quick fix.
 
 - 🏗️ **Currently building:** A complex accounting software system
 - 🌐 **Portfolio:** [stigibalint.dev](https://www.stigibalint.dev)
